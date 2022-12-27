@@ -1,4 +1,4 @@
-import { FaCat } from 'react-icons/fa';
+import { FaDrawPolygon } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 
 const Header = () => {
@@ -9,8 +9,8 @@ const Header = () => {
         style={{ fontFamily: 'Urbanist' }}
         to={'/'}
       >
-        Cinemang
-        <FaCat className="inline text-green-500" />
+        Hixcalidraw
+        <FaDrawPolygon className="inline text-green-500" />
       </Link>
     </div>
   );

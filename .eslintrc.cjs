@@ -68,7 +68,7 @@ module.exports = {
     'react/prop-types': 0,
     'react/react-in-jsx-scope': 0,
     semi: [2, 'always'],
-    'sort-keys': 2,
+    // 'sort-keys': 2,
     'space-before-blocks': 2,
     'space-before-function-paren': [
       2,

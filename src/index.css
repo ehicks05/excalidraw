@@ -15,7 +15,7 @@ body {
 }
 
 /* SCROLLBAR */
-body {
+/* body {
   overflow-y: scroll;
 }
 ::-webkit-scrollbar {
@@ -32,4 +32,4 @@ body {
 
 ::-webkit-scrollbar-thumb:hover {
   background: #777;
-}
+} */
